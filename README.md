@@ -1,4 +1,4 @@
-# HealthCare-Capstone
+# HealthCare-Capstone - Brian Bermudez
 Capstone Project for Essilor's Data Engineering with Databricks Project
 
 ## HTML Samples
